@@ -915,7 +915,7 @@ function buildplav() {
 }
 function admpanel() {
     var pass = prompt('Enter pass:');
-    if (pass == 'Fx12Gh65KJJi00*k') {
+    if (pass == '1234',"1234") {
         alert('You are beta-tester!');
         money = money * 1000000;
         document.close();
